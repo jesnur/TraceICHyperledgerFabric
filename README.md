@@ -1,5 +1,9 @@
 [//]: # (SPDX-License-Identifier: CC-BY-4.0)
 
+## Hyperledger Fabric Network for IC Traceability  
+
+This project creates a sample network of four organizations (one manufacturer, two distributors, one retailer) in IC supply chain. The chaincode (smart contract) for IC traceability can be found in chaincode/traceic/go/traceic.go file.
+
 ## Hyperledger Fabric Samples
 
 Please visit the [installation instructions](http://hyperledger-fabric.readthedocs.io/en/latest/install.html)
