@@ -30,5 +30,5 @@ chmod +x ./scripts/bootstrap.sh
 ```
 ## Setup Commands
 
-$ cd traceic
+$ cd traceic  
 $ ./startFabric.sh
