@@ -28,3 +28,7 @@ chmod +x ./scripts/bootstrap.sh
 # Download binaries and docker images
 ./scripts/bootstrap.sh [version] [ca version] [thirdparty_version]
 ```
+## Setup Commands
+
+$ cd traceic
+$ ./startFabric.sh
