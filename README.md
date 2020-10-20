@@ -30,5 +30,14 @@ chmod +x ./scripts/bootstrap.sh
 ```
 ## Setup Commands
 
+Make the network up and running by these commands:  
 $ cd traceic  
-$ ./startFabric.sh
+$ ./startFabric.sh  
+  
+To interact with the chaincode (smart contract), run these commands:  
+$ cd javascript  
+$ npm install  
+$ node enrollAdmin.js  
+$ node registerUser.js  
+$ node invoke.js  
+$ node query.js
